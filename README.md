@@ -95,7 +95,7 @@ Developed to allow robot navigation through intuitive hand gestures, the project
 * **[@DheerajKonakalla4](https://github.com/DheerajKonakalla4)** 
 * **[@Tasleemkhan7](https://github.com/Tasleemkhan7)**
 
-> *This project is currently ongoing as part of an academic/prototype effort.*
+> *This project is as part of an academic effort, Under Eyantra Lab, SRMIST.*
 
 ---
 
